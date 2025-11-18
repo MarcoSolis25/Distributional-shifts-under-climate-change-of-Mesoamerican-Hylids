@@ -2,4 +2,4 @@ This folder contains all presence data of species in a .csv format.
 Each file has geographic coordinates (longitude and latitude), as well as the value of every bioclimatic variable of WorldClim. 
 All species have more tahn 30 records. 
 
-**Correlative_Model.R** script is the script that allows to create the models based on the "kuenm" package using Maxent algorithm. 
+"Correlative_Model.R" script is the script that allows to create the models based on the "kuenm" package using Maxent algorithm. 
