@@ -1,0 +1,3 @@
+This folder contains all presence data of species in a .csv format. 
+Each file has geographic coordinates (longitude and latitude), as well as the value of every bioclimatic variable of WorldClim. 
+All species have more tahn 30 records. 
