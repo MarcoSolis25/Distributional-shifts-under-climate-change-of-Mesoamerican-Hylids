@@ -1,17 +1,13 @@
 # Distributional shifts under climate-change of Mesoamerican Hylids (Pérez-Mendoza et al., 2025)
 All scripts and datasets used for the analysisis of SDM's of adults and tadpoles of the 10 Hylid species are all gathered in this repository.
 
-
--Accesible area (M) defined for the Mesoamerican region in which all models were projected is available in the "**Shapes**" folder.
-All species M's are also accesible in the same folder. 
-
 -Adult distribution models (correlative-Maxent) scripts are available in the "**Correlative**" folder, based on the "kuenm" package (Cobos et al., 2019). 
 Correlative folder also contains the datasets for the 10 species modeled, each species dataset is named by his species name. 
 All records in the datasets are cleaned, according to Prieto-Torres et al.(2024). 
 
 -Tadpoles distribution models (mechanistic-NicheMapR) scripts are available in the "**Mechanistic**" folder, using the "NicheMapR" software (Kearney & Porter, 2017) 
 
-
+-NOTE: due to excessive files sizes of accessible areas (M's) of each species, they would not be available in the repository. However, they can be obtained by direct contact with the repository author. 
 
 **Literature**: 
 
