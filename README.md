@@ -1,4 +1,4 @@
-# Distributional shifts under climate-change of Mesoamerican Hylids (Pérez-Mendoza et al., 2025)
+# Adult-Only Models Overestimate Habitat Suitability: Tadpole Constraints Reveal Major Range Contractions in Mesoamerican Hylid Frogs (Pérez-Mendoza et al., 2025)
 All scripts and datasets used for the analysisis of SDM's of adults and tadpoles of the 10 Hylid species are all gathered in this repository.
 
 -Adult distribution models (correlative-Maxent) scripts are available in the "**Correlative**" folder, based on the "kuenm" package (Cobos et al., 2019). 
